@@ -1,3 +1,7 @@
+.lucky, .unlucky, .neutral {
+  display: none;
+}
+
 .jumbotron {
   text-align: center;
 }
